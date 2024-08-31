@@ -11,7 +11,7 @@
 <p align="center">
   A Python script for merging dashcam videos by date using FFmpeg.
   <br />
-  <a href="https://github.com/your_username/your_repo_name"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/Sharzzz001/70-Mai-Dash-Cam-Merge-Videos"><strong>Explore the docs »</strong></a>
   <br />
   <br />
   <a href="#usage">View Demo</a>
