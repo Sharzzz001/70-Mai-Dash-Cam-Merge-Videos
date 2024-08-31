@@ -101,9 +101,7 @@ Ensure you have Python and FFmpeg installed. You can download FFmpeg from [FFmpe
     ```sh 
     python merge_videos.py --date YYYYMMDD --output_path /path/to/output
 
-Replace YYYYMMDD with the desired date and /path/to/output with the path where you want the merged videos to be saved.
-
-2. For example, to merge videos for August 29, 2024, and save them to /videos/merged, use:
+2. Replace YYYYMMDD with the desired date and /path/to/output with the path where you want the merged videos to be saved. For example, to merge videos for August 29, 2024, and save them to /videos/merged, use:
     ```sh
     python merge_videos.py --date 20240829 --output_path /videos/merged
 
@@ -119,3 +117,4 @@ Replace YYYYMMDD with the desired date and /path/to/output with the path where y
 - [ ] Add support for different video formats
 - [ ] Improve error handling
 - [ ] Add more usage examples
+
