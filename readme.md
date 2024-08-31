@@ -110,6 +110,7 @@ Ensure you have Python and FFmpeg installed. You can download FFmpeg from [FFmpe
     python merge_videos.py --output_path /videos/merged
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
+
 ## Roadmap
 
 - [x] Basic video merging functionality
