@@ -55,6 +55,7 @@
 
 This project provides a Python script to merge dashcam video files recorded on different dates into single video files for each date. The script uses FFmpeg to handle video merging efficiently.
 
+<!-- WHY THIS PROJECT -->
 ### Why This Project?
 
 * Automate the merging of dashcam videos, saving time and effort.
@@ -65,7 +66,7 @@ This project provides a Python script to merge dashcam video files recorded on d
 
 
 
-### Built With
+## Built With
 
 * [![Python][Python-shield]][Python-url]
 * [![FFmpeg][FFmpeg-shield]][FFmpeg-url]
