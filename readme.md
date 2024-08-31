@@ -156,7 +156,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Sharan Shetty - [@Sharan001](https://x.com/001Sharan) - sharanshetty.001@gmail.com
+Sharan Shetty - [X - @Sharan001](https://x.com/001Sharan) - [Linkedin](https://linkedin.com/in/sharanshetty001) - sharanshetty.001@gmail.com 
 
 Project Link: [70-Mai-Dash-Cam-Merge-Videos](https://github.com/Sharzzz001/70-Mai-Dash-Cam-Merge-Videos)
 
@@ -175,7 +175,7 @@ Project Link: [70-Mai-Dash-Cam-Merge-Videos](https://github.com/Sharzzz001/70-Ma
 [license-shield]: https://img.shields.io/github/license/Sharzzz001/70-Mai-Dash-Cam-Merge-Videos.svg?style=for-the-badge
 [license-url]: https://github.com/Sharzzz001/70-Mai-Dash-Cam-Merge-Videos/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/sharanshetty001
+[linkedin-url]: https://linkedin.com/in/sharanshetty001
 [Python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
 [FFmpeg-shield]: https://img.shields.io/badge/FFmpeg-FF7F00?style=for-the-badge&logo=ffmpeg&logoColor=white
