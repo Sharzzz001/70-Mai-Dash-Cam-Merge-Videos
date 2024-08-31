@@ -92,14 +92,13 @@ Ensure you have Python and FFmpeg installed. You can download FFmpeg from [FFmpe
 3. No additional Python packages are required beyond the standard library.
 <p align="right">(<a href="#readme-top">back to top</a>)</p> <!-- USAGE EXAMPLES -->
 
-## Usage
+### Usage
 
 Use the following command to merge videos by date:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-    ```sh
-   python merge_videos.py --date YYYYMMDD --output_path /path/to/output
+```sh python merge_videos.py --date YYYYMMDD --output_path /path/to/output
 
 Replace YYYYMMDD with the desired date and /path/to/output with the path where you want the merged videos to be saved.
 
